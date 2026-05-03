@@ -10,13 +10,13 @@ export default function SystemArtifact({ onClose }: Props) {
     <BaseModal title="System Artifact" onClose={onClose}>
       <div className="space-y-3 mb-8">
         <p className="text-warm-300 leading-relaxed">
-          You're just as curious as I am.
+          You found the hidden gem!
         </p>
         <p className="text-warm-300 leading-relaxed">
-          Most people ignore that instinct.
+          Not everyone looks this closely — but you did.
         </p>
         <p className="text-warm-300 leading-relaxed">
-          You didn't.
+          And that's exactly the kind of curiosity that separates good operators from great ones.
         </p>
       </div>
 
