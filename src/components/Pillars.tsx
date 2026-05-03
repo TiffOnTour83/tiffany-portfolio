@@ -1,4 +1,4 @@
-import { Puzzle, Settings, ShieldCheck, FileSearch } from 'lucide-react';
+import { Puzzle, Bot, ShieldCheck, FileSearch } from 'lucide-react';
 
 const pillars = [
   {
