@@ -18,8 +18,8 @@ const pillars = [
     bg: 'bg-teal-900/20',
   },
   {
-    icon: Agent,
-    title: 'Agent Orchestration',
+    icon: Bot,
+    title: 'AI Agent Orchestration',
     desc: 'Building customized AI Agents to manage repetitive workflows that you can trust.',
     color: 'text-copper-400',
     border: 'border-copper-600/30',
