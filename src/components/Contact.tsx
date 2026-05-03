@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import { Mail, Linkedin, MessageSquare, MapPin, CheckCircle2, Clock, Briefcase } from 'lucide-react';
+import { Mail, Linkedin, MessageSquare, Clock, Briefcase } from 'lucide-react';
 
 const availableFor = [
   'AI Agent design and multi-step workflow automation',
@@ -81,24 +81,8 @@ export default function Contact() {
             </a>
 
             <div className="pt-2 border-t border-gold-800/20 space-y-3">
-              <div className="flex items-center gap-3">
-                <div className="w-9 h-9 rounded-lg bg-navy-800/60 border border-warm-300/10 flex items-center justify-center">
-                  <MapPin size={16} className="text-warm-300/50" />
-                </div>
-                <div>
-                  <p className="text-warm-300/60 text-xs tracking-widest uppercase mb-0.5">Location</p>
-                  <p className="text-warm-200 text-sm">Atlanta, GA &nbsp;·&nbsp; Open to relocation</p>
-                </div>
-              </div>
-              <div className="flex items-center gap-3">
-                <div className="w-9 h-9 rounded-lg bg-teal-900/30 border border-teal-700/30 flex items-center justify-center">
-                  <CheckCircle2 size={16} className="text-teal-400" />
-                </div>
-                <div>
-                  <p className="text-warm-300/60 text-xs tracking-widest uppercase mb-0.5">Status</p>
-                  <p className="text-teal-300 text-sm">Open to new opportunities</p>
-                </div>
-              </div>
+              
+              
               <div className="flex items-center gap-3">
                 <div className="w-9 h-9 rounded-lg bg-navy-800/60 border border-warm-300/10 flex items-center justify-center">
                   <Briefcase size={16} className="text-warm-300/50" />
