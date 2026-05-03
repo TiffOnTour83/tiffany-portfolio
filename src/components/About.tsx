@@ -89,7 +89,7 @@ export default function About() {
 
               {/* Bio */}
               <p className="text-warm-300/70 text-sm leading-relaxed">
-                I'm the person you bring in when no one knows where to start. I dig into the mess, map what's actually happening, and build systems that are structured, traceable, and defensible. Lately that means adding the automation layer too — RPA, autonomous agents, and workflows that eliminate the manual redundant steps to save you time.
+                I'm the person you bring in when no one knows where to start. I map the chaos, identify the dependencies, and build systems that are structured, traceable, and audit-ready. That means designing the compliance framework and the automation layer — RPA, autonomous agents, and intelligent workflows that eliminate the manual steps holding your operation back.
               </p>
 
               {/* Outside the Office */}
