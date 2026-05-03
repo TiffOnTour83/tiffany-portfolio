@@ -3,7 +3,7 @@ import { Mail, Linkedin, MessageSquare, Clock, Briefcase } from 'lucide-react';
 
 const availableFor = [
   'AI Agent design and multi-step workflow automation',
-  'Compliance automation - from requirement mapping to deployable solutions',
+  'Compliance engineering — from mapping requirements to deployable solutions',
   'Digital transformation for legacy systems integration',
 ];
 
